@@ -10,5 +10,5 @@ Professional group management bot with:
 
 1. Clone repo:
 ```bash
-git clone https://github.com/yourusername/Telegram-Group-Manager.git
-cd Telegram-Group-Manager
+git clone https://github.com/codewithnafira/Groupbot
+cd Groupbot
